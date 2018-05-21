@@ -1,0 +1,12 @@
+.navbar-brand {
+    margin-left: 20px;
+    background: skyblue;
+}
+
+.navbar-nav {
+    float: right;
+}
+
+p{
+    color: red;
+}
